@@ -1,0 +1,23 @@
+# How to Use the Automated Setup Script
+
+This document provides step-by-step instructions on how to use the provided Bash script to set up your Linux system with essential APT packages and Flatpak applications.
+
+## Prerequisites
+
+Before running the script, ensure the following:
+
+1. **Linux Distribution:** You are using a Linux distribution that supports APT and Flatpak (e.g., Ubuntu, Debian).
+2. **Internet Connection:** Ensure you have an active internet connection to download and install packages.
+
+## Step-by-Step Guide
+
+### 1. Download the Script
+
+You can download the script by cloning the repository or by downloading the script file directly.
+
+#### Clone the Repository
+
+If the script is hosted on a Git repository, use the following command to clone it:
+
+```bash
+git clone <repository-url>
